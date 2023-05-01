@@ -4,8 +4,8 @@ const port = 7000;
 const chefs = require('./data/chefs.json');
 const recipes = require('./data/recipes.json');
 const categories = require('./data/foodCategory.json');
-
-
+const cors = require('cors')
+app.use(cors())
 app.get('/', (req, res) => {
   res.send('Chefs are cooking')
 })
