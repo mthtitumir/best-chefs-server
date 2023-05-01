@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "picture": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2017_05/1890591/170203-salt-bae-mn-1530.jpg",
+        "name": "Salt Bay",
+        "years_of_experience": 15,
+        "num_recipes": 50,
+        "likes": 1000
+    },
+    {
+        "id": "2",
+        "picture": "https://images.unsplash.com/photo-1499996860823-5214fcc65f8f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1366&q=80",
+        "name": "John Smith",
+        "years_of_experience": 15,
+        "num_recipes": 50,
+        "likes": 1000
+    },
+    {
+        "id": "3",
+        "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Jane Doe",
+        "years_of_experience": 10,
+        "num_recipes": 75,
+        "likes": 800
+    },
+    {
+        "id": "4",
+        "picture": "https://images.unsplash.com/photo-1506207803951-1ee93d7256ad?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "Carlos Gonzalez",
+        "years_of_experience": 20,
+        "num_recipes": 100,
+        "likes": 1200
+    },
+    {
+        "id": "5",
+        "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Emily Johnson",
+        "years_of_experience": 7,
+        "num_recipes": 30,
+        "likes": 500
+    },
+    {
+        "id": "6",
+        "picture": "https://images.unsplash.com/photo-1496345875659-11f7dd282d1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8cGFzc3BvcnQlMjBzaXplJTIwbWVuJTIwcGljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "name": "David Lee",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 900
+    },
+    {
+        "id": "7",
+        "picture": "https://pic.onlinewebfonts.com/svg/img_24787.png",
+        "name": "Maria Hernandez",
+        "years_of_experience": 8,
+        "num_recipes": 40,
+        "likes": 600
+    },
+    {
+        "id": "8",
+        "picture": "https://pic.onlinewebfonts.com/svg/img_24787.png",
+        "name": "Alex Kim",
+        "years_of_experience": 18,
+        "num_recipes": 90,
+        "likes": 1100
+    },
+    {
+        "id": "9",
+        "picture": "https://pic.onlinewebfonts.com/svg/img_24787.png",
+        "name": "Sara Patel",
+        "years_of_experience": 5,
+        "num_recipes": 20,
+        "likes": 400
+    },
+    {
+        "id": "10",
+        "picture": "https://pic.onlinewebfonts.com/svg/img_24787.png",
+        "name": "Kevin Nguyen",
+        "years_of_experience": 9,
+        "num_recipes": 45,
+        "likes": 700
+    }
+]
