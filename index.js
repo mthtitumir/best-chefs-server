@@ -3,6 +3,7 @@ const app = express()
 const port = 7000;
 const chefs = require('./data/chefs.json');
 const recipes = require('./data/recipes.json');
+const categories = require('./data/foodCategory.json');
 
 
 app.get('/', (req, res) => {
@@ -13,6 +14,9 @@ app.get('/chefs', (req, res)=>{
 })
 app.get('/recipes', (req, res)=>{
     res.send(recipes);
+})
+app.get('/categories', (req, res)=>{
+    res.send(categories);
 })
 
 
