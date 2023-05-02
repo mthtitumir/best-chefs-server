@@ -1,6 +1,7 @@
 [
     {
         "id": "1",
+        "category" : "chef01",
         "image": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8U3BhZ2hldHRpJTIwQm9sb2duZXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "recipe_name": "Spaghetti Bolognese",
         "ingredients": [
@@ -19,6 +20,7 @@
     },
     {
         "id": "2",
+        "category": "chef01",
         "image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHBhcm1lc2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "recipe_name": "Chicken Parmesan",
         "ingredients": [
@@ -37,6 +39,277 @@
     },
     {
         "id": "3",
+        "category":"chef01",
+        "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Q2xhc3NpYyUyMENhZXNhciUyMFNhbGFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Classic Caesar Salad",
+        "ingredients": [
+            "1 head of romaine lettuce, chopped",
+            "1/2 cup Caesar dressing",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "1 lemon, juiced",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. In a large bowl, toss the chopped romaine lettuce with Caesar dressing, lemon juice, salt, and pepper.\n2. Top with croutons and grated Parmesan cheese.",
+        "rating": 4.2
+    },
+    {
+        "id": "4",
+        "category" : "chef02",
+        "image": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8U3BhZ2hldHRpJTIwQm9sb2duZXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+            "1 pound spaghetti",
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 can (28 ounces) crushed tomatoes",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper, to taste",
+            "Grated Parmesan cheese, for serving"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, brown the ground beef over medium-high heat. Drain any excess fat.\n3. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the crushed tomatoes, basil, oregano, salt, and pepper. Simmer for 15-20 minutes.\n5. Serve the sauce over the cooked spaghetti, topped with grated Parmesan cheese.",
+        "rating": 4.5
+    },
+    {
+        "id": "5",
+        "category": "chef02",
+        "image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHBhcm1lc2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1 cup all-purpose flour",
+            "2 eggs, beaten",
+            "2 cups seasoned breadcrumbs",
+            "1/4 cup olive oil",
+            "1 jar (24 ounces) marinara sauce",
+            "8 ounces mozzarella cheese, shredded",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 375°F.\n2. Season the chicken breasts with salt and pepper.\n3. Place the flour, beaten eggs, and breadcrumbs in separate shallow dishes.\n4. Coat the chicken breasts in the flour, shaking off any excess. Dip the chicken in the eggs, then coat in breadcrumbs.\n5. Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side.\n6. Pour the marinara sauce over the chicken and top with the shredded mozzarella and grated Parmesan cheese.\n7. Bake in the preheated oven for 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.",
+        "rating": 4.8
+    },
+    {
+        "id": "6",
+        "category":"chef02",
+        "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Q2xhc3NpYyUyMENhZXNhciUyMFNhbGFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Classic Caesar Salad",
+        "ingredients": [
+            "1 head of romaine lettuce, chopped",
+            "1/2 cup Caesar dressing",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "1 lemon, juiced",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. In a large bowl, toss the chopped romaine lettuce with Caesar dressing, lemon juice, salt, and pepper.\n2. Top with croutons and grated Parmesan cheese.",
+        "rating": 4.2
+    },
+    {
+        "id": "7",
+        "category" : "chef03",
+        "image": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8U3BhZ2hldHRpJTIwQm9sb2duZXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+            "1 pound spaghetti",
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 can (28 ounces) crushed tomatoes",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper, to taste",
+            "Grated Parmesan cheese, for serving"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, brown the ground beef over medium-high heat. Drain any excess fat.\n3. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the crushed tomatoes, basil, oregano, salt, and pepper. Simmer for 15-20 minutes.\n5. Serve the sauce over the cooked spaghetti, topped with grated Parmesan cheese.",
+        "rating": 4.5
+    },
+    {
+        "id": "8",
+        "category": "chef03",
+        "image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHBhcm1lc2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1 cup all-purpose flour",
+            "2 eggs, beaten",
+            "2 cups seasoned breadcrumbs",
+            "1/4 cup olive oil",
+            "1 jar (24 ounces) marinara sauce",
+            "8 ounces mozzarella cheese, shredded",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 375°F.\n2. Season the chicken breasts with salt and pepper.\n3. Place the flour, beaten eggs, and breadcrumbs in separate shallow dishes.\n4. Coat the chicken breasts in the flour, shaking off any excess. Dip the chicken in the eggs, then coat in breadcrumbs.\n5. Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side.\n6. Pour the marinara sauce over the chicken and top with the shredded mozzarella and grated Parmesan cheese.\n7. Bake in the preheated oven for 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.",
+        "rating": 4.8
+    },
+    {
+        "id": "9",
+        "category":"chef03",
+        "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Q2xhc3NpYyUyMENhZXNhciUyMFNhbGFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Classic Caesar Salad",
+        "ingredients": [
+            "1 head of romaine lettuce, chopped",
+            "1/2 cup Caesar dressing",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "1 lemon, juiced",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. In a large bowl, toss the chopped romaine lettuce with Caesar dressing, lemon juice, salt, and pepper.\n2. Top with croutons and grated Parmesan cheese.",
+        "rating": 4.2
+    },
+    {
+        "id": "10",
+        "category" : "chef04",
+        "image": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8U3BhZ2hldHRpJTIwQm9sb2duZXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+            "1 pound spaghetti",
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 can (28 ounces) crushed tomatoes",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper, to taste",
+            "Grated Parmesan cheese, for serving"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, brown the ground beef over medium-high heat. Drain any excess fat.\n3. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the crushed tomatoes, basil, oregano, salt, and pepper. Simmer for 15-20 minutes.\n5. Serve the sauce over the cooked spaghetti, topped with grated Parmesan cheese.",
+        "rating": 4.5
+    },
+    {
+        "id": "11",
+        "category": "chef04",
+        "image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHBhcm1lc2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1 cup all-purpose flour",
+            "2 eggs, beaten",
+            "2 cups seasoned breadcrumbs",
+            "1/4 cup olive oil",
+            "1 jar (24 ounces) marinara sauce",
+            "8 ounces mozzarella cheese, shredded",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 375°F.\n2. Season the chicken breasts with salt and pepper.\n3. Place the flour, beaten eggs, and breadcrumbs in separate shallow dishes.\n4. Coat the chicken breasts in the flour, shaking off any excess. Dip the chicken in the eggs, then coat in breadcrumbs.\n5. Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side.\n6. Pour the marinara sauce over the chicken and top with the shredded mozzarella and grated Parmesan cheese.\n7. Bake in the preheated oven for 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.",
+        "rating": 4.8
+    },
+    {
+        "id": "12",
+        "category":"chef04",
+        "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Q2xhc3NpYyUyMENhZXNhciUyMFNhbGFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Classic Caesar Salad",
+        "ingredients": [
+            "1 head of romaine lettuce, chopped",
+            "1/2 cup Caesar dressing",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "1 lemon, juiced",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. In a large bowl, toss the chopped romaine lettuce with Caesar dressing, lemon juice, salt, and pepper.\n2. Top with croutons and grated Parmesan cheese.",
+        "rating": 4.2
+    },
+    {
+        "id": "13",
+        "category" : "chef05",
+        "image": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8U3BhZ2hldHRpJTIwQm9sb2duZXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+            "1 pound spaghetti",
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 can (28 ounces) crushed tomatoes",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper, to taste",
+            "Grated Parmesan cheese, for serving"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, brown the ground beef over medium-high heat. Drain any excess fat.\n3. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the crushed tomatoes, basil, oregano, salt, and pepper. Simmer for 15-20 minutes.\n5. Serve the sauce over the cooked spaghetti, topped with grated Parmesan cheese.",
+        "rating": 4.5
+    },
+    {
+        "id": "14",
+        "category": "chef05",
+        "image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHBhcm1lc2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1 cup all-purpose flour",
+            "2 eggs, beaten",
+            "2 cups seasoned breadcrumbs",
+            "1/4 cup olive oil",
+            "1 jar (24 ounces) marinara sauce",
+            "8 ounces mozzarella cheese, shredded",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 375°F.\n2. Season the chicken breasts with salt and pepper.\n3. Place the flour, beaten eggs, and breadcrumbs in separate shallow dishes.\n4. Coat the chicken breasts in the flour, shaking off any excess. Dip the chicken in the eggs, then coat in breadcrumbs.\n5. Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side.\n6. Pour the marinara sauce over the chicken and top with the shredded mozzarella and grated Parmesan cheese.\n7. Bake in the preheated oven for 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.",
+        "rating": 4.8
+    },
+    {
+        "id": "15",
+        "category":"chef05",
+        "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Q2xhc3NpYyUyMENhZXNhciUyMFNhbGFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Classic Caesar Salad",
+        "ingredients": [
+            "1 head of romaine lettuce, chopped",
+            "1/2 cup Caesar dressing",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan cheese",
+            "1 lemon, juiced",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. In a large bowl, toss the chopped romaine lettuce with Caesar dressing, lemon juice, salt, and pepper.\n2. Top with croutons and grated Parmesan cheese.",
+        "rating": 4.2
+    },
+    {
+        "id": "16",
+        "category" : "chef06",
+        "image": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8U3BhZ2hldHRpJTIwQm9sb2duZXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Spaghetti Bolognese",
+        "ingredients": [
+            "1 pound spaghetti",
+            "1 pound ground beef",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 can (28 ounces) crushed tomatoes",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper, to taste",
+            "Grated Parmesan cheese, for serving"
+        ],
+        "cooking_method": "1. Cook spaghetti according to package instructions.\n2. In a large skillet, brown the ground beef over medium-high heat. Drain any excess fat.\n3. Add the onion and garlic and cook until softened, about 5 minutes.\n4. Add the crushed tomatoes, basil, oregano, salt, and pepper. Simmer for 15-20 minutes.\n5. Serve the sauce over the cooked spaghetti, topped with grated Parmesan cheese.",
+        "rating": 4.5
+    },
+    {
+        "id": "17",
+        "category": "chef06",
+        "image": "https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hpY2tlbiUyMHBhcm1lc2FufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1 cup all-purpose flour",
+            "2 eggs, beaten",
+            "2 cups seasoned breadcrumbs",
+            "1/4 cup olive oil",
+            "1 jar (24 ounces) marinara sauce",
+            "8 ounces mozzarella cheese, shredded",
+            "1/4 cup grated Parmesan cheese",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Preheat the oven to 375°F.\n2. Season the chicken breasts with salt and pepper.\n3. Place the flour, beaten eggs, and breadcrumbs in separate shallow dishes.\n4. Coat the chicken breasts in the flour, shaking off any excess. Dip the chicken in the eggs, then coat in breadcrumbs.\n5. Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned on both sides, about 5 minutes per side.\n6. Pour the marinara sauce over the chicken and top with the shredded mozzarella and grated Parmesan cheese.\n7. Bake in the preheated oven for 20-25 minutes, until the chicken is cooked through and the cheese is melted and bubbly.",
+        "rating": 4.8
+    },
+    {
+        "id": "18",
+        "category":"chef06",
         "image":"https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Q2xhc3NpYyUyMENhZXNhciUyMFNhbGFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "recipe_name": "Classic Caesar Salad",
         "ingredients": [

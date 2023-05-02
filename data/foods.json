@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "image":"https://images.pexels.com/photos/10813356/pexels-photo-10813356.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Spicy Chicken Enchiladas",
+      "description": "These spicy chicken enchiladas are packed with flavor and heat. The chicken is seasoned with chili powder, cumin, and cayenne pepper, and then rolled up in tortillas with cheese and salsa. The enchiladas are topped with more cheese and baked until bubbly and delicious."
+    },
+    {
+      "id": 2,
+      "image":"https://images.pexels.com/photos/406152/pexels-photo-406152.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Caprese Salad",
+      "description": "This simple Caprese salad is a classic Italian dish that's perfect for summer. It's made with ripe tomatoes, fresh mozzarella cheese, and basil leaves, and then drizzled with olive oil and balsamic vinegar. It's a light and refreshing salad that's perfect for a hot day."
+    },
+    {
+      "id": 3,
+      "image":"https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Beef Stroganoff",
+      "description": "This creamy beef stroganoff is a hearty and satisfying meal. Tender strips of beef are cooked with mushrooms and onions in a rich and creamy sauce made with sour cream and beef broth. It's typically served over egg noodles, but can also be served over rice or mashed potatoes."
+    }
+  ]
