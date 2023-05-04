@@ -1,22 +1,22 @@
 [
     {
-        "category_name": "Italian",
+        "category_name": "Sea Food",
         "image":"https://images.pexels.com/photos/2295285/pexels-photo-2295285.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
-        "category_name": "Mexican",
+        "category_name": "Vegetables",
         "image":"https://images.pexels.com/photos/14785917/pexels-photo-14785917.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
-        "category_name": "Chinese",
+        "category_name": "Dumplings and Dim Sum",
         "image":"https://images.pexels.com/photos/2092906/pexels-photo-2092906.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
-        "category_name": "Indian",
+        "category_name": "Rice Dishes",
         "image":"https://images.pexels.com/photos/2302809/pexels-photo-2302809.jpeg?auto=compress&cs=tinysrgb&w=600"
     },
     {
-        "category_name": "Japanese",
+        "category_name": "Sichuan Cuisine",
         "image":"https://images.pexels.com/photos/3297882/pexels-photo-3297882.jpeg?auto=compress&cs=tinysrgb&w=600"
     }
 ]
